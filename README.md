@@ -1,3 +1,5 @@
+//*This is a temporary repository till I finish my portafolio*//
+
 # ElPalacio
 
 Redesign of a perfumery and hairsalon website "El Palacio Salón" (Responsive website)
