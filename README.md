@@ -1,7 +1,6 @@
 # ElPalacio
 
 Redesign of a perfumery and hairsalon website "El Palacio Salón" (Responsive website)
-
 Freelance work
 Jun 2018 – Jul 2018
 La Plata, Buenos Aires, Argentina
